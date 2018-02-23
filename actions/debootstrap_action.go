@@ -102,6 +102,7 @@ func (d *DebootstrapAction) Run(context *debos.DebosContext) error {
 		cmdline = append(cmdline, fmt.Sprintf("--arch=%s", context.Architecture))
 
 	}
+
         cmdline = append(cmdline,"--include=ecore-archive-keyring")
 	if d.Variant != "" {
 		cmdline = append(cmdline, fmt.Sprintf("--variant=%s", d.Variant))
