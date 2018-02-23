@@ -8,8 +8,8 @@ import (
 	"path"
 
 	"github.com/docker/go-units"
-	"github.com/go-debos/debos"
-	"github.com/go-debos/debos/recipe"
+	"github.com/Arikkala/debos"
+	"github.com/Arikkala/debos/recipe"
 	"github.com/go-debos/fakemachine"
 	"github.com/jessevdk/go-flags"
 )

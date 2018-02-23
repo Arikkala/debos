@@ -1,7 +1,7 @@
 package recipe_test
 
 import (
-	"github.com/go-debos/debos/recipe"
+	"github.com/Arikkala/debos/recipe"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"os"

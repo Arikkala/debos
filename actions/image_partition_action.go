@@ -119,7 +119,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/go-debos/debos"
+	"github.com/Arikkala/debos"
 )
 
 type Partition struct {

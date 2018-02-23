@@ -29,7 +29,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/go-debos/debos"
+	"github.com/Arikkala/debos"
 )
 
 type FilesystemDeployAction struct {

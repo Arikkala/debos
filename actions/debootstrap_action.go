@@ -38,7 +38,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/go-debos/debos"
+	"github.com/Arikkala/debos"
 )
 
 type DebootstrapAction struct {

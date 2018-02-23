@@ -21,7 +21,7 @@ import (
 	"log"
 	"path"
 
-	"github.com/go-debos/debos"
+	"github.com/Arikkala/debos"
 )
 
 type PackAction struct {
